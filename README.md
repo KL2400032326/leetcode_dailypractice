@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Math
+|  |
+| ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
