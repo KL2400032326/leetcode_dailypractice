@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [1729-find-followers-count](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
