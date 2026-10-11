@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
