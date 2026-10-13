@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0443-string-compression](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -90,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
