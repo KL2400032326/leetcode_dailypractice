@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2119-a-number-after-a-double-reversal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
