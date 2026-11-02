@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0443-string-compression) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0141-linked-list-cycle) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
