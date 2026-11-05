@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0074-search-a-2d-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/KL2400032326/leetcode_dailypractice/tree/master/0141-linked-list-cycle) |
